@@ -1,0 +1,11 @@
+*.py.class
+*.py[cod]
+
+*.so
+
+.Python
+build
+develop-eggs/
+dist/
+download/
+eggs/
